@@ -17,6 +17,6 @@ archive - URL & file on archive.org<br>
 injection - inject test URL parameter for vulnerability<br>
 
 
-hahaha?
-yes, tihs is useless(?), but like i say, this just a 'SIMPLE' scanner.
+hahaha?<br>
+yes, tihs is useless(?), but like i say, this just a 'SIMPLE' scanner.<br>
 thank you.
