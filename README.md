@@ -7,14 +7,14 @@ sudo gem install lolcat
 sudo apt install nmap hydra curl lolcat
 ```
 
-scanner?
-subfinder - find sub domain
-heartbleed - scan openport ssl/tls for Heartbleed
-defaultlogin - try brutforce login (openport 21:ftp/22:ssh) for default username and password.
-dirpath - web content scanner for dircetory/path
-commoncrawl - URL crawl from commoncrawl.org
-archive - URL & file on archive.org
-injection - inject test URL parameter for vulnerability
+scanner?<br>
+subfinder - find sub domain<br>
+heartbleed - scan openport ssl/tls for Heartbleed<br>
+defaultlogin - try brutforce login (openport 21:ftp/22:ssh) for default username and password.<br>
+dirpath - web content scanner for dircetory/path<br>
+commoncrawl - URL crawl from commoncrawl.org<br>
+archive - URL & file on archive.org<br>
+injection - inject test URL parameter for vulnerability<br>
 
 
 hahaha?
