@@ -5,6 +5,11 @@ need:
 ```
 sudo gem install lolcat
 sudo apt install nmap hydra curl lolcat
+
+git clone https://github.com/rouze-d/scanbossku
+chmod +x -R scanbossku
+cd scanbossku
+bash scanbossku.sh
 ```
 
 **scanner?**<br>
