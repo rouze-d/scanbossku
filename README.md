@@ -12,6 +12,8 @@ cd scanbossku
 bash scanbossku.sh
 ```
 
+don't forget run 'chmod +x -R scanbossku' for permissions<br>
+
 **scanner?**<br>
 subfinder - find sub domain.<br>
 honeypot? - scan if subdomain are honeypot.<br>
